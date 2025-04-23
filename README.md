@@ -20,50 +20,68 @@ Este software é destinado a **alunos, pesquisadores e entusiastas** interessado
 
 ---
 
-## 🐍 Instalando o Python
-
-1. Acesse o site oficial: https://www.python.org/downloads/
-2. Clique no botão **Download Python 3.x.x** (a versão mais nova).
-3. **Importante:** durante a instalação, marque a opção **"Add Python to PATH"**.
-4. Clique em **Install Now** e aguarde o fim da instalação.
-
----
-
 ## 📁 Baixando o projeto
 
 1. Vá até esta página do GitHub.
-2. Clique no botão verde `Code`.
-3. Depois, clique em **Download ZIP**.
-4. Extraia o arquivo ZIP (clique com o botão direito > **Extrair tudo...**) em uma pasta de sua escolha.
-
+2. Para fazer o código funcionar o usuário vai precisar de três arquivos que se encontram nesse repositório: `requeriments.txt`,  `data_of_data.ico` e `Lord_of_the_data.py`.
+3. O software foi desenvolvido em Python, por isso, é necessário, caso o usuário não possua, instalar a linguagem de programação python. Entre as diversas maneiras nas quais se pode fazer isso, recomenda-mos duas: por prompt de comando ou usando o compilador Visual Studio Code (Vs code).
 ---
 
-## ⚙️ Instalando as dependências
+## Usando o CMD (Prompt de Comando):
 
-1. Abra o menu Iniciar e digite: **cmd** → pressione Enter.
-2. No terminal, vá até a pasta do projeto. Exemplo:
+### 🐍 Instalando o Python
+
+1. Acesse o site oficial: https://www.python.org/downloads/
+2. Clique no botão **Download Python 3.12.0** (versão utilizada nos testes).
+3. **Importante:** durante a instalação, marque a opção **"Add Python to PATH"**.
+4. Clique em **Install Now** e aguarde o fim da instalação.
+5. Abra o menu Iniciar e digite: **cmd** → pressione Enter.
+6. No terminal, vá até a pasta do projeto. Exemplo:
 
 ```bash
 cd C:\Users\SeuUsuario\Downloads\pasta-do-projeto
-Instale as bibliotecas necessárias com o comando:
+```
+7. Instale as bibliotecas necessárias com o comando:
 
-bash
-Copiar
-Editar
+```bash
 pip install -r requirements.txt
-▶️ Executando o programa
-Ainda no terminal, digite:
+```
 
-bash
-Copiar
-Editar
-python nome_do_arquivo.py
-Substitua nome_do_arquivo.py pelo nome real do arquivo principal do projeto (por exemplo: main.py).
+### ▶️ Executando o programa
+1. Ainda no terminal, digite:
 
-❓ Dúvidas?
-Se você tiver qualquer dúvida ou problema, sinta-se à vontade para entrar em contato por aqui ou abrir uma issue no repositório.
+```bash
+python Lord-of_the_data.py
+```
 
-## 🎯 Objetivos
+## Usando o Visual Studio Code (VS Code):
+
+### 🧠 Instalando o Visual Studio Code
+
+1. Acesse: https://code.visualstudio.com/
+2. Clique em **Download for Windows**
+3. Instale com as opções padrão
+4. Após a instalação, abra o VS Code
+
+### 🧩 Instale a extensão Python no VS Code
+
+1. No VS Code, clique no ícone de quadradinhos no menu lateral esquerdo (Extensões)
+2. Busque por **"Python"**
+3. Instale a extensão oficial da Microsoft
+4. Clique em File > Open Folder... e escolha a pasta do projeto que você extraiu.
+5. O VS Code vai abrir todos os arquivos do projeto
+6. Pressione `Ctrl + Shift + P` (ou `F1`) no VS Code
+7. Digite e selecione: `Python: Select Interpreter`
+8. Escolha o Python que você instalou (geralmente aparece como `Python 3.x.x`)
+9. No Terminal integrado do VS Code, digite o seguinte comando:
+
+```bash
+pip install -r requirements.txt
+```
+10. Abra o arquivo principal do seu projeto (por exemplo, `Lord-of_the_data.py`).
+11. Clique no botão Run (ícone de play) no canto superior direito ou pressione `F5` para rodar o código.
+   
+## 🎯 Objetivos do programa
 
 - **Automatizar a revisão sistemática**, facilitando a coleta, filtragem e organização de artigos científicos.
 - **Fornecer ferramentas de análise e extração de dados**, identificando padrões e informações relevantes.
