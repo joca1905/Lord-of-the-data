@@ -1,6 +1,6 @@
 # Lord of the data
 Sua ferramenta para revisão sistemática de artigos científicos.
-
+![Logo do programa](./imagens/data_of_data.jpg)
 ## 📘 Introdução
 
 ### O que é o software?
