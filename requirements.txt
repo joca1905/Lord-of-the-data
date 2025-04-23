@@ -1,0 +1,10 @@
+docx
+Pillow
+transformers
+bibtexparser
+rispy
+customtkinter
+argostranslate
+pybtex
+seaborn
+matplotlib
