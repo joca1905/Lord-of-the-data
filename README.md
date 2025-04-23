@@ -51,7 +51,7 @@ pip install -r requirements.txt
 1. Ainda no terminal, digite:
 
 ```bash
-python Lord-of_the_data.py
+python Lord_of_the_data.py
 ```
 
 ## Usando o Visual Studio Code (VS Code):
