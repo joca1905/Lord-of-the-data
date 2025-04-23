@@ -42,7 +42,7 @@ A interface é composta por sete menus:
 - Perguntas e Respostas
 - Tradução
 
-![Interface do Software](./Fig1rs.png)
+![Interface do Software](./imagens/Fig1rs.png)
 
 ---
 
@@ -65,7 +65,7 @@ Permite:
 - Alternar entre **modo claro e escuro**
 - Selecionar tipo de citação (**ABNT ou Harvard**)
 
-![Menu de Configuração](./Fig2rs.png)
+![Menu de Configuração](./imagens/Fig2rs.png)
 
 ---
 
@@ -78,7 +78,7 @@ Coleta dados da revisão, como:
 - Palavras-chave, strings de busca
 - Informações sobre editoras e idioma
 
-![Revisão Sistemática](./Fig3rs.png)
+![Revisão Sistemática](./imagens/Fig3rs.png)
 
 ---
 
@@ -92,9 +92,9 @@ Importa arquivos `.ris` e `.bib` e extrai metadados automaticamente. Utiliza o m
 
 O sistema mostra respostas com **porcentagem de confiança**, e permite ao usuário aceitar/rejeitar artigos com base em critérios definidos.
 
-![Execução](./Fig4rs.png)  
-![Resultado da Execução](./Fig9rs.png)  
-![Janela de Seleção](./Fig8rs.png)
+![Execução](./imagens/Fig4rs.png)  
+![Resultado da Execução](./imagens/Fig9rs.png)  
+![Janela de Seleção](./imagens/Fig8rs.png)
 
 ---
 
@@ -102,7 +102,7 @@ O sistema mostra respostas com **porcentagem de confiança**, e permite ao usuá
 
 Permite resumir textos usando o modelo [Falconsai/text_summarization](https://huggingface.co/Falconsai/text_summarization) (T5 Small), gerando resumos concisos com base no conteúdo inserido.
 
-![Sumarização](./Fig5rs.png)
+![Sumarização](./imagens/Fig5rs.png)
 
 ---
 
@@ -110,7 +110,7 @@ Permite resumir textos usando o modelo [Falconsai/text_summarization](https://hu
 
 Responde perguntas personalizadas sobre textos inseridos, usando o mesmo modelo da etapa de execução.
 
-![Perguntas e Respostas](./Fig6rs.png)
+![Perguntas e Respostas](./imagens/Fig6rs.png)
 
 ---
 
@@ -118,7 +118,7 @@ Responde perguntas personalizadas sobre textos inseridos, usando o mesmo modelo 
 
 Permite a tradução de textos de artigos para o idioma desejado (em desenvolvimento ou a ser detalhado).
 
-![Tradução](./Fig7rs.png) *(inserir se tiver imagem)*
+![Tradução](./imagens/Fig7rs.png) *(inserir se tiver imagem)*
 
 ---
 
@@ -156,7 +156,7 @@ Este projeto utiliza modelos de linguagem e ferramentas acessadas por meio da bi
 
 ## 👨‍💻 Autor
 
-**Seu Nome** – [@seu_usuario](https://github.com/seu_usuario)  
+**Joaquim Osterwald Frota Moura Filho** – (joaquim.eng1905@gmail.com)  
 Desenvolvedor e pesquisador em inteligência artificial e revisão sistemática.
 
 ---
