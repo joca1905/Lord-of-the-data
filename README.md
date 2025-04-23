@@ -219,8 +219,11 @@ Este projeto utiliza modelos de linguagem e ferramentas acessadas por meio da bi
 
 **Joaquim Osterwald Frota Moura Filho** – (joaquim.eng1905@gmail.com)  
 Desenvolvedor e pesquisador em inteligência artificial e revisão sistemática.
+
 **Giovanni**
+
 **George**
+
 **Amora**
 
 ---
