@@ -215,10 +215,13 @@ Este projeto utiliza modelos de linguagem e ferramentas acessadas por meio da bi
 - **Nenhum peso de modelo é redistribuído neste repositório**. Os modelos são baixados dinamicamente no dispositivo do usuário, conforme necessário.
 - Recomendamos que usuários consultem os repositórios originais para mais informações sobre licenciamento e termos de uso.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Joaquim Osterwald Frota Moura Filho** – (joaquim.eng1905@gmail.com)  
 Desenvolvedor e pesquisador em inteligência artificial e revisão sistemática.
+**Giovanni**
+**George**
+**Amora**
 
 ---
 
