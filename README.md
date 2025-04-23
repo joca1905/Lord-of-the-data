@@ -5,7 +5,7 @@ Sua ferramenta para revisão sistemática de artigos científicos.
 
 ### O que é o software?
 
-**Lord of the Data** é uma ferramenta desenvolvida para auxiliar no processo de revisão sistemática. Ela incrementa ferramentas que facilitam a seleção, extração e entendimento de artigos científicos, com um diferencial importante: o uso de modelos de **inteligência artificial** para sumarização e análise textual. Além disso, é um software **brasileiro**, com foco em acessibilidade e facilidade de uso.
+**Lord of the Data** é uma ferramenta desenvolvida para auxiliar no processo de revisão sistemática. Ela incrementa ferramentas que facilitam a seleção, extração e entendimento de artigos científicos, com um diferencial importante: o uso de modelos de **inteligência artificial** para sumarização e análise textual. Além disso, é um software **brasileiro**, com foco em acessibilidade e facilidade de uso. Ela foi desenvolvida usando a biblioteca para interface gráfica em Python CustomTkinter (https://customtkinter.tomschimansky.com/).
 
 ### Público-alvo
 
