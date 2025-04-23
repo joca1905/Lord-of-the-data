@@ -20,6 +20,49 @@ Este software é destinado a **alunos, pesquisadores e entusiastas** interessado
 
 ---
 
+## 🐍 Instalando o Python
+
+1. Acesse o site oficial: https://www.python.org/downloads/
+2. Clique no botão **Download Python 3.x.x** (a versão mais nova).
+3. **Importante:** durante a instalação, marque a opção **"Add Python to PATH"**.
+4. Clique em **Install Now** e aguarde o fim da instalação.
+
+---
+
+## 📁 Baixando o projeto
+
+1. Vá até esta página do GitHub.
+2. Clique no botão verde `Code`.
+3. Depois, clique em **Download ZIP**.
+4. Extraia o arquivo ZIP (clique com o botão direito > **Extrair tudo...**) em uma pasta de sua escolha.
+
+---
+
+## ⚙️ Instalando as dependências
+
+1. Abra o menu Iniciar e digite: **cmd** → pressione Enter.
+2. No terminal, vá até a pasta do projeto. Exemplo:
+
+```bash
+cd C:\Users\SeuUsuario\Downloads\pasta-do-projeto
+Instale as bibliotecas necessárias com o comando:
+
+bash
+Copiar
+Editar
+pip install -r requirements.txt
+▶️ Executando o programa
+Ainda no terminal, digite:
+
+bash
+Copiar
+Editar
+python nome_do_arquivo.py
+Substitua nome_do_arquivo.py pelo nome real do arquivo principal do projeto (por exemplo: main.py).
+
+❓ Dúvidas?
+Se você tiver qualquer dúvida ou problema, sinta-se à vontade para entrar em contato por aqui ou abrir uma issue no repositório.
+
 ## 🎯 Objetivos
 
 - **Automatizar a revisão sistemática**, facilitando a coleta, filtragem e organização de artigos científicos.
