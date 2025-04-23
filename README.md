@@ -116,9 +116,9 @@ Responde perguntas personalizadas sobre textos inseridos, usando o mesmo modelo 
 
 ### 🌐 Tradução
 
-Permite a tradução de textos de artigos para o idioma desejado (em desenvolvimento ou a ser detalhado).
+Permite a tradução de textos de artigos para o idioma desejado (português, inglês e espanhol).
 
-![Tradução](./imagens/Fig7rs.png) *(inserir se tiver imagem)*
+![Tradução](./imagens/Fig7rs.png) 
 
 ---
 
