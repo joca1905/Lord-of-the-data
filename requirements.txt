@@ -1,10 +1,11 @@
-docx
-Pillow
 transformers
+torch
+argostranslate
+Pillow
+python-docx
 bibtexparser
 rispy
-customtkinter
-argostranslate
 pybtex
 seaborn
 matplotlib
+customtkinter
